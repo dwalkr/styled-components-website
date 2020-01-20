@@ -107,7 +107,7 @@ const resetStyles = `
   }
 
   .root {
-    position: relative;
+    position: static;
     overflow: auto;
   }
 
